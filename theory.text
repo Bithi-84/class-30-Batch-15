@@ -1,0 +1,35 @@
+
+
+############ LOOP ###########
+
+    1.for loop
+    2.foreeach loop
+    3.while loop
+
+    4.do while loop
+
+    Hello world
+    Hello world
+     Hello world
+     Hello world
+     Hello world
+     Hello world
+     Hello world
+     Hello world
+     Hello world
+    Hello world
+
+
+    =>for loop
+
+    for(initialization; rang/condition;increment/decrement;)
+           1               10++
+           10              5--
+
+
+           for(initialization; rang/condition;increment/decrement;){
+
+                  statement
+           }
+                
+          
